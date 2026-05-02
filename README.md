@@ -1,4 +1,4 @@
-# Ex.No:3a Develop program to create a text field and a button “Navigate”. When you enter “lms2.ai.saveetha.in” and press navigate button it should open google page using Implicit Intents.
+# Ex.No:2a Develop program to create a text field and a button “Navigate”. When you enter “lms2.ai.saveetha.in” and press navigate button it should open google page using Implicit Intents.
 
 ## AIM:
 
